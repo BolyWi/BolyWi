@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolyWi)](https://github.com/anuraghazra/github-readme-stats)
+[![BolyWi's GitHub 贡献日历](https://github-readme-activity-graph.vercel.app/graph?username=BolyWi&theme=github-dark&area=true&hide_border=true)](https://github.com/BolyWi)
